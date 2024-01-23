@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) is the process of optimizing the output of a large language model,chat gpt api is used for information processing from given reports or doc. It is NLP  model that make text into tokens and  analysis it. RAG can answer to specific  question using content from inference of extract data from document.
